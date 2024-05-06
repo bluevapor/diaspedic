@@ -49,7 +49,7 @@ let content: ContentList = {
         {
             type: 'module',
             name: 'auto hide',
-            description: 'automatically hides car axle client when you switch tabs, press backslash to open it again',
+            description: 'automatically hides ass client when you switch tabs, press backslash to open it again',
             handler: 'autohide',
         },
     ],
