@@ -11,7 +11,7 @@ function Block(content: Pen<HTMLElement>[]): Pen<HTMLElement>[] {
                            <h2 class="divider">on ${ENV}</h2>
                            <h2>${quotes[Math.floor(Math.random() * quotes.length)]}</h2>
 
-                           <h3>made with no love by penguinify</h3>
+                           <h3>made with no love by diabeto</h3>
                            </div>`)
 
     content[0].element.style.backgroundImage = "url('https://raw.githubusercontent.com/car-axle-client/car-axle-client/main/docs/v11logo%20sadly.svg')"
